@@ -1,4 +1,4 @@
-## Hi I'm Oriol Leal 👋
+## Hi I'm Oriol Leal ! 👋
 
 I'm a Bioinformatics student interested in the intersection of biology, data science, and computation. I enjoy applying programming and analytical tools to explore biological data and better understand complex biological systems.
 
